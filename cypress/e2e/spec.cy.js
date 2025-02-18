@@ -1,13 +1,13 @@
 describe('My First Test', () => {
   it('Visits the Start Page', () => {
-    cy.visit('http://localhost:8080/')
+    cy.visit('https://hfcyptest.netlify.app/')
   })
 })
 
 
 describe('My First Test', () => {
   it('finds the content "Welcome"', () => {
-    cy.visit('http://localhost:8080/')
+    cy.visit('https://hfcyptest.netlify.app/')
 
     cy.contains('Welcome')
   })
@@ -15,7 +15,7 @@ describe('My First Test', () => {
 
 describe('My First Test', () => {
   it('checks the formatting of API_NAME"', () => {
-    cy.visit('http://localhost:8080/')
+    cy.visit('https://hfcyptest.netlify.app/')
 
     cy.get('code').contains('API_NAME');
   })
