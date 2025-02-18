@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/hedi-far/cypress_test/issues"
   },
-  "homepage": "https://github.com/hedi-far/cypress_test#readme"
+  "homepage": "https://github.com/hedi-far/cypress_test#readme",
+  "dependencies": {
+    "cypress": "^14.0.3"
+  }
 }
