@@ -1,0 +1,20 @@
+{
+  "name": "cypress_test",
+  "version": "1.0.0",
+  "description": "Application to learn testing with Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cy:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hedi-far/cypress_test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hedi-far/cypress_test/issues"
+  },
+  "homepage": "https://github.com/hedi-far/cypress_test#readme"
+}
