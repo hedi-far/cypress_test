@@ -9,7 +9,7 @@ describe('My First Test', () => {
   it('finds the content "Welcome"', () => {
     cy.visit('https://hfcyptest.netlify.app/')
 
-    cy.contains('Welcome')
+    cy.contains('Welcome22')
   })
 })
 
