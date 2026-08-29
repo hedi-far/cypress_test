@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/hedi-far/cypress_test#readme",
   "dependencies": {
-    "cypress": "^14.0.3"
+    "cypress": "^15.0.0"
   }
 }
